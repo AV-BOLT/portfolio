@@ -1,4 +1,4 @@
-Проекты с EDA и Classic ML
+# Проекты с EDA и Classic ML
 
 Добро пожаловать в эту папку, где хранятся проекты, связанные с Exploratory Data Analysis (EDA) и Classic Machine Learning (ML).
 
